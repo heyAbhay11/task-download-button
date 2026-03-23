@@ -31,7 +31,7 @@ main {
 .card {
 
     width: 22rem;
-    background-color: white;
+    background-color: rgb(212, 212, 212);
     border-radius: 0.8rem;
     padding: 2rem 1rem;
 }
@@ -84,6 +84,6 @@ main {
 h4{
     color: crimson;
     text-align: center;
-    font-size: 0.6rem;
-    color: black;
-    font-weight: 200;
+    font-size: 0.9rem;
+    color: rgb(102, 102, 102);
+}
